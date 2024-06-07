@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/TexasInstruments-Logo.svg" width="150"><br/>
-# MCU+ SDK
 
 [Introduction](#introduction) | [Features](#features) | [Overview](#overview)
 
